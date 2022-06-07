@@ -1,0 +1,14 @@
+.container {
+	width: 90%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+#banner {
+	background-image: url(../images/banniere.jpg);
+	background-size: cover;
+	padding-bottom: 13rem;
+	margin-top: -0.3rem;
+	margin-bottom: 2rem;
+	padding-top: 0.1rem;
+}
